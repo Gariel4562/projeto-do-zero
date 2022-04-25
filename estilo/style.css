@@ -1,0 +1,171 @@
+* { /* essa configuração é pra tudo no site */
+    font-family: arial;
+}
+
+body { /* zerar espaços no corpo */
+    margin:0;
+    padding:0;
+}
+
+
+.topo { /* configuração cor de fundo do topo */
+    height:50px;
+    background-color: #353535;
+    
+}
+
+.menu { /* configuração menu */
+    max-width:800px;
+    margin:auto;
+    color:white;
+
+}
+.logomarca {  /* configuração logo marca */
+    float:left;
+    font-size:24px;
+    line-height:50px;
+
+
+}
+
+.navegar { /* configuração navegação que se encontra dentro do nav */
+    float:right;
+    
+    
+    
+}
+
+.navegar ul, .navegar li { /* ul li */
+    list-style: none;
+    margin:0;
+    padding:0;
+    
+    
+
+    
+
+}
+
+.navegar li { /* configuração links */
+    float:left;
+    padding-left:10px;
+    padding-right: 10px;
+    line-height: 50px;
+    cursor: pointer;
+    
+}
+
+li:hover { /* hover */
+    background-color: #3480c1;
+    
+    
+}
+
+/* banner */
+
+.banner {
+    max-width:1100px;
+    height:300px;
+    background-color: #347aba;
+    margin:auto;
+    
+    
+
+
+
+}
+
+.bannerleft {
+    float:left;
+    margin-left: 50px;
+    
+
+
+
+}
+
+.bannerright{
+    float:right;
+    margin-right: 100px;
+    
+    
+
+}
+
+h2 {
+    color:white;
+    font-size: 48px;
+    margin-top:60px;
+    
+    
+}
+
+p {
+    color:white;
+    font-size: 20px;
+    
+
+}
+
+button {
+    background-color: #ffc001;
+    width:282px;
+    height:56px;
+    padding:10px;
+    color:black;
+    font-size:20px;
+    cursor: pointer;
+    border-radius: 5px;
+    
+}
+
+/* Conteudo */
+
+.conteudo {
+    max-width:1100px;
+    margin:auto;
+    background-color: white;
+
+
+
+}
+
+.conteudo p {
+    color:black;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+
+}
+
+/* fotos dos quatro caras */
+
+.caras img {
+    margin-right: 10px;
+    margin-left:10px;
+    
+
+}
+
+/* Rodape */
+
+footer {
+    background-color: #347aba;
+    height:30px;
+    line-height: 30px;
+    text-align: center;
+    margin:0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
