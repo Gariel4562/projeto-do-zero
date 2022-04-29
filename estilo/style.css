@@ -194,7 +194,12 @@ footer {
         height:100px;
     }
     
-    
+    .navegar li {
+        padding-left:5px;
+        padding-right:5px;
+
+
+    }
 }
 
 
