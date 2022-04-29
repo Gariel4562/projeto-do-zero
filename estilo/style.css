@@ -203,6 +203,15 @@ footer {
 
     .banner {
         height:390px;
+        
+
+    }
+
+    .banner .bannerleft button {
+        width:150px;
+        height:65px;
+    
+    
     }
 
     
