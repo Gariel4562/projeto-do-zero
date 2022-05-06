@@ -220,6 +220,21 @@ footer {
     
     
     }
+    .banner .bannerleft h2 {
+        font-size: 35px;
+
+
+    }
+
+    .banner .bannerleft p {
+        font-size: 17px;
+    }
+    .topo .menu .logomarca {
+        font-size: 20px;
+    }
+    .topo .menu .navegar {
+        font-size: 15px;
+    }
 
 
     
