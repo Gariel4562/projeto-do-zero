@@ -176,11 +176,6 @@ footer {
 
 @media only screen and (max-width:670px) {
 
-    .banner {
-        height:350px;
-        
-    }
-
     .caras img {
         width:70%;
     }
@@ -204,16 +199,6 @@ footer {
 
     }
 
-    .banner {
-        height:350px;
-        
-        
-       
-        
-        
-        
-
-    }
 
     .banner .bannerleft button {
         width:250px;
